@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/huygoodboy/huygoodboy/blob/main/banner.png" width="100%" alt="Bùi Gia Huy Banner" />
   
   <h1 align="center">Hi there, I'm Bùi Gia Huy 👋</h1>
   
@@ -15,10 +14,7 @@
     <a href="https://profile.huygoodboy.io.vn/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:contact@huygoodboy.io.vn" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/huygoodboy" target="_blank">
+    <a href="https://www.linkedin.com/in/b%C3%B9i-gia-huy-3246b025b/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -28,11 +24,11 @@
 
 ### 👨‍💻 About Me
 
-Tôi là một kỹ sư AI đam mê **Reinforcement Learning** và **Machine Learning**. Tôi tập trung vào việc xây dựng các agent thông minh có khả năng tự học và giải quyết các bài toán phức tạp. Ngoài ra, tôi cũng có kinh nghiệm vững chắc trong việc triển khai mô hình (MLOps) và phát triển ứng dụng web.
+I am an AI Engineer and Data Scientist based in Vietnam.
 
-- 🔭 Tôi đang làm việc trên các dự án **Autonomous Agents** và **Financial Prediction Models**.
-- 🌱 Tôi đang nghiên cứu sâu về **Deep Q-Networks (DQN)** và tối ưu hóa **Policy Gradients**.
-- 💼 Tìm hiểu thêm về tôi tại: [**profile.huygoodboy.io.vn**](https://profile.huygoodboy.io.vn/)
+I am passionate about artificial intelligence and machine learning, with a focus on building practical AI solutions. I love working on projects that combine cutting-edge technology with real-world applications. When I'm not coding, I enjoy exploring new AI technologies and contributing to the AI community.
+
+- 💼 Read more about me at this link: [**profile.huygoodboy.io.vn**](https://profile.huygoodboy.io.vn/)
 
 ---
 
@@ -51,34 +47,54 @@ Tôi là một kỹ sư AI đam mê **Reinforcement Learning** và **Machine Lea
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🎮 Atari Video Checkers Agent</h3>
-      <p align="center">Một AI Agent sử dụng <strong>Reinforcement Learning</strong> để tự học và chơi game Atari Video Checkers đạt điểm số cao.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Book Recommendation System</h3>
+      <br />
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-PyTorch%20%7C%20Gym-blue" />
+        Hệ thống gợi ý sách sử dụng <strong>SVD</strong> và <strong>KNN</strong> để tìm ra các yếu tố ẩn và đưa ra đề xuất cá nhân hóa dựa trên sở thích người dùng.
+      </p>
+      <p align="center">
+        <a href="https://github.com/HuyGoodBoy/book-recommendation-system">
+          <img src="https://img.shields.io/badge/Code-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+        </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📈 Gold Price Prediction</h3>
-      <p align="center">Hệ thống Machine Learning phân tích dữ liệu thị trường để đưa ra khuyến nghị <strong>Buy/Sell/Hold</strong> vàng với độ chính xác cao.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">⚖️ Legal RAG Chatbot</h3>
+      <br />
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-Scikit--learn%20%7C%20Pandas-green" />
+        Chatbot tư vấn pháp luật sử dụng kỹ thuật <strong>RAG (Retrieval-Augmented Generation)</strong>, kết hợp LangChain và OpenAI GPT để tra cứu văn bản luật chính xác.
+      </p>
+      <p align="center">
+        <a href="https://github.com/662chatbot/662chatbot.github.io">
+          <img src="https://img.shields.io/badge/Code-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🐦 Flappy Bird Automation</h3>
-      <p align="center">Sử dụng Computer Vision và JSON model để tự động hóa thao tác chơi game Flappy Bird.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">👤 Face Recognition System</h3>
+      <br />
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-OpenCV%20%7C%20Automation-orange" />
+        Hệ thống nhận diện khuôn mặt thời gian thực (Real-time), có khả năng xác minh danh tính với độ chính xác cao sử dụng OpenCV và TensorFlow.
+      </p>
+      <p align="center">
+        <a href="https://github.com/HuyGoodBoy/face-recognition-system">
+          <img src="https://img.shields.io/badge/Code-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🌐 Taskly Deployment</h3>
-      <p align="center">Triển khai ứng dụng web lên VPS sử dụng Docker Container, tối ưu hóa cho môi trường production.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 Discord Music Bot</h3>
+      <br />
       <p align="center">
-        <img src="https://img.shields.io/badge/Tech-Docker%20%7C%20Nginx-blueviolet" />
+        Bot nghe nhạc cho Discord, hỗ trợ phát nhạc từ YouTube, quản lý hàng đợi (queue) và điều khiển playback mượt mà thông qua FFmpeg.
+      </p>
+      <p align="center">
+        <a href="https://github.com/HuyGoodBoy/discordbott">
+          <img src="https://img.shields.io/badge/Code-Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
@@ -87,11 +103,6 @@ Tôi là một kỹ sư AI đam mê **Reinforcement Learning** và **Machine Lea
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huygoodboy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huygoodboy&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huygoodboy&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
